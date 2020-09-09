@@ -1,0 +1,10 @@
+.idea/*
+node_modules/
+example/build/
+npm-debug.log*
+*.iml
+.nyc_output/
+coverage/
+src/tekster.js
+build/
+.DS_Store
